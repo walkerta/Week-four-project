@@ -1,0 +1,44 @@
+.body {
+  background-color: #eeeeee;
+}
+
+.header {
+  display: flex;
+}
+
+.button {
+  display: flex;
+  color: blue;
+  border-style: solid: 30px;
+  flex-wrap: wrap;
+  flex-direction: row-reverse;
+}
+
+.search form{
+
+  display: flex;
+  border-color: green;
+  border-style: solid: 30px;
+  flex-direction:
+}
+
+
+
+
+
+.text{
+  color: red;
+
+}
+
+.imput{
+
+  color: green;
+
+}
+.td{
+
+color: green;
+
+
+}
